@@ -1,0 +1,14 @@
+﻿  BaseObject.cpp
+C:\Users\Thinkpad\source\repos\SDLGAME\SDLGAME\BaseObject.cpp(9,13): error C2084: function 'BaseObject::BaseObject(void)' already has a body
+      C:\Users\Thinkpad\source\repos\SDLGAME\SDLGAME\BaseObject.h(9,2):
+      see previous definition of 'BaseObject::BaseObject'
+  
+C:\Users\Thinkpad\source\repos\SDLGAME\SDLGAME\BaseObject.cpp(18,14): error C2084: function 'BaseObject::~BaseObject(void)' already has a body
+      C:\Users\Thinkpad\source\repos\SDLGAME\SDLGAME\BaseObject.h(10,3):
+      see previous definition of 'BaseObject::~BaseObject'
+  
+  game_map.cpp
+C:\Users\Thinkpad\source\repos\SDLGAME\SDLGAME\game_map.h(10,16): warning C4091: 'typedef ': ignored on left of 'Map' when no variable is declared
+  (compiling source file 'game_map.cpp')
+  
+  Generating Code...
